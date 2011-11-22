@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\VoxelTerrain\Private\VRender.cs">
+    <Files>
+      <File FileName="Assets\Scripts\VoxelTerrain\VBrush.cs" Line="43" Column="5" />
+      <File FileName="Assets\Editor\VoxelTerrainWindow.cs" Line="47" Column="7" />
+      <File FileName="Assets\Scripts\VoxelTerrain\VTerrain.cs" Line="34" Column="30" />
+      <File FileName="Assets\Scripts\VoxelTerrain\Private\VCube.cs" Line="9" Column="3" />
+      <File FileName="Assets\Scripts\VoxelTerrain\Private\VRender.cs" Line="165" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="VoxelTerrain" expanded="True">
+                  <Node name="Private" expanded="True">
+                    <Node name="VRender.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-Editor" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Editor" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
